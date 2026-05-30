@@ -1,0 +1,6 @@
+@CondominioApi_HostAddress = http://localhost:5193
+
+GET {{CondominioApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
