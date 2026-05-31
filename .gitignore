@@ -1,3 +1,6 @@
 .env
 extras.txt
 **\node_modules\**
+appsettings.json
+appsettings.*.json
+!appsettings.example.json
