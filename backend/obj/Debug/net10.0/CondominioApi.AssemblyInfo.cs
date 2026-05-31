@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("8b8ef5d1-85f4-4ed8-b112-5acdae1f9cf1")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CondominioApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c47c5466781dac56702e34cc0d88bfa93179d47e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea3068d36e16fc3b3c9b7f4190dce54542ec4dd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CondominioApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CondominioApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
